@@ -1,0 +1,72 @@
+# 🌐 Personal Portfolio Website
+
+This is my personal **Portfolio Website**, built using **HTML5, CSS3, and JavaScript**.  
+It showcases my skills, services, projects, and ways to contact me. The website is fully responsive and optimized for desktop, tablet, and mobile devices.  
+
+---
+
+## 📌 Features
+
+- **Responsive Design** – Works seamlessly on all screen sizes.
+- **Hero Section** – Eye-catching introduction with bold text.
+- **About Page** – Details about my background, skills, and professional journey.
+- **Services Page** – A showcase of the services I provide, each with professional icons/images.
+- **Projects Section** – Highlights of my best projects with links to live demos or GitHub repos.
+- **Contact Page** – Contact form with JavaScript validation and direct links to my email & phone.
+- **Footer** – Consistent footer across all pages with navigation & social links.
+- **Interactivity** – Smooth navigation, form validation, and optional image sliders.
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** → Semantic structure for SEO and accessibility.  
+- **CSS3** → Modern responsive design, Flexbox/Grid layout.  
+- **JavaScript (ES6)** → Form validation, interactivity, and DOM manipulation.  
+- **Netlify** → Hosting and deployment (free & fast).  
+
+---
+
+## 📂 Project Structure
+
+```bash
+portfolio-website/
+│
+├── index.html        # Home page
+├── about.html        # About page
+├── services.html     # Services page
+├── contact.html      # Contact page
+│
+├── css/
+│   └── style.css     # Main stylesheet
+│
+├── js/
+│   └── script.js     # JavaScript for interactivity
+│
+├── images/           # All images/icons used in the website
+│
+├── docs/
+│   └── Ukpai_CV.pdf  # CV for download/view
+
+
+🚀 Deployment
+
+The website is deployed using Netlify.
+Link: https://ukpaiamarachiportfolio.netlify.app/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🚀 Deploymen
+└── README.md         # Project docu
